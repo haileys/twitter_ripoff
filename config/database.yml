@@ -1,0 +1,11 @@
+development:
+  adapter: mysql2
+  database: twitter_ripoff
+  host: 127.0.0.1
+  user: root
+
+production:
+  adapter: mysql2
+  database: twitter_ripoff_prod
+  host: 127.0.0.1
+  user: root
